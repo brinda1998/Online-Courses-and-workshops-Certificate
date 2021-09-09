@@ -2,4 +2,6 @@ This is the repository which has the certificates of peronal courses completed i
 
 Online courses are the best way to improve our knowledge and gain better understanding in the topics. I believe in learning , its always good to update ourself with current trend and topics which we will be working on.
 
-These learnings helped me to improve my knowledge in various different technologies, and also helped me to solve high level problems in real world. 
+These learnings helped me to improve my knowledge in various different technologies, and also helped me to solve high level problems in real world.
+
+The different platforms i earned the course certificates are - Cognitive class IBM, NPTEL, GUVI,NICT etc.
